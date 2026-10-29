@@ -1,0 +1,406 @@
+{
+  "student": {
+    "name": "Jeremy",
+    "id": "[student ID omitted]",
+    "university": "Yuan Ze University",
+    "course": "Academic Writing",
+    "instructor": "Carlos Mercado Hernandez"
+  },
+  "video": {
+    "title": "HEMUS | \"IN MY HAND YOUR NAME IN BLACK\" | SYNTHPOP x DARKWAVE x COLDWAVE",
+    "url": "https://www.youtube.com/watch?v=JlwNP_0U36A",
+    "published": "30 September 2026",
+    "length": "4:21"
+  },
+  "screenshots": [
+    {
+      "number": 1,
+      "timestamp": "00:05",
+      "description": "A person with short dark hair and a dark brown shirt lowers their head beside water. A figure and trees appear as reflections on the blue surface. The camera looks downward, with a stone edge crossing the right side.",
+      "alt": "Person with a lowered head beside blue water reflecting a figure and trees.",
+      "category": "City settings",
+      "seconds": 5,
+      "file": "01_00-05.png"
+    },
+    {
+      "number": 2,
+      "timestamp": "00:20",
+      "description": "A person with short dark hair faces away from the camera on a rooftop. Two large white feathered wings cover much of their back. A low wall and distant buildings stand beneath a pale blue and orange sky.",
+      "alt": "Rear view of a person with large white wings on a rooftop at dusk.",
+      "category": "Figures with white wings",
+      "seconds": 20,
+      "file": "02_00-20.png"
+    },
+    {
+      "number": 3,
+      "timestamp": "00:35",
+      "description": "A person in a white shirt and blue jeans faces away from the camera on an outdoor walkway. Large white wings rise from their back beside a concrete railing. Windows line the building on the right, while blue mist covers the background.",
+      "alt": "Person in a white shirt and jeans with white wings beside a concrete railing.",
+      "category": "Figures with white wings",
+      "seconds": 35,
+      "file": "03_00-35.png"
+    },
+    {
+      "number": 4,
+      "timestamp": "00:45",
+      "description": "A blurred person in a white shirt fills the lower part of the image. Another small figure in a white top and dark skirt stands on a high concrete ledge. The camera looks upward toward the building and a dark blue sky.",
+      "alt": "Blurred foreground figure below another figure standing on a high building ledge.",
+      "category": "City settings",
+      "seconds": 45,
+      "file": "04_00-45.png"
+    },
+    {
+      "number": 5,
+      "timestamp": "01:00",
+      "description": "A person with short dark hair and black clothing faces the camera with their eyes lowered. Pale white and pink fireworks fill the sky behind them. Their light is reflected across the water in the background.",
+      "alt": "Person in black clothing in front of pale fireworks above water.",
+      "category": "Dark clothing and face makeup",
+      "seconds": 60,
+      "file": "05_01-00.png"
+    },
+    {
+      "number": 6,
+      "timestamp": "01:15",
+      "description": "A blurred person in a white shirt and dark skirt stands in the foreground with their back to the camera. A second figure stands farther away near the rooftop wall. A wide city view stretches below them under blue light.",
+      "alt": "Two figures at different distances on a rooftop above a blue city view.",
+      "category": "City settings",
+      "seconds": 75,
+      "file": "06_01-15.png"
+    },
+    {
+      "number": 7,
+      "timestamp": "01:25",
+      "description": "A person in a light-colored dress faces away from the camera beside a rooftop wall. Large white wings extend upward from their back. The building windows are on the left, and tall city buildings appear in the distance.",
+      "alt": "Winged person in a light dress beside a rooftop wall and building windows.",
+      "category": "Figures with white wings",
+      "seconds": 85,
+      "file": "07_01-25.png"
+    },
+    {
+      "number": 8,
+      "timestamp": "01:30",
+      "description": "A person in a white dress sits on the floor with their knees bent and bare feet extended. Several old television sets surround them, with pale bands of light across the screens. Cables connect the sets and cross the dark floor.",
+      "alt": "Barefoot person in a white dress seated among old television sets and cables.",
+      "category": "Music and screen devices",
+      "seconds": 90,
+      "file": "08_01-30.png"
+    },
+    {
+      "number": 9,
+      "timestamp": "01:40",
+      "description": "A person with large white wings stands with their back to the camera on a rooftop. Bright sunlight shines from behind their head and lights the edges of the feathers. A metal railing and a distant blue city view fill the background.",
+      "alt": "Backlit winged person standing by a rooftop railing above the city.",
+      "category": "Figures with white wings",
+      "seconds": 100,
+      "file": "09_01-40.png"
+    },
+    {
+      "number": 10,
+      "timestamp": "01:50",
+      "description": "A person in a black coat and white collar wears large silver headphones inside a train. They sit beside a window and face an open computer at the lower right of the image. Pink seats, metal poles, and hanging handles continue down the empty carriage.",
+      "alt": "Person in black clothing with silver headphones and a computer inside a train.",
+      "category": "Music and screen devices",
+      "seconds": 110,
+      "file": "10_01-50.png"
+    },
+    {
+      "number": 11,
+      "timestamp": "02:05",
+      "description": "A person with short dark hair sits beside a window and lowers their eyes. They wear a black jacket and white face makeup, with black lines under the eyes and a red nose. A faint reflection and small colored lights appear in the dark window.",
+      "alt": "Person in a black jacket and white face makeup beside a dark window.",
+      "category": "Dark clothing and face makeup",
+      "seconds": 125,
+      "file": "11_02-05.png"
+    },
+    {
+      "number": 12,
+      "timestamp": "02:20",
+      "description": "A person in blue clothing and white shoes crosses a rooftop. A white wing shape is visible behind their shoulder. The wide view includes roof equipment, a low wall, and tall buildings under a pale blue sky.",
+      "alt": "Wide rooftop view of a person in blue clothing with city buildings behind them.",
+      "category": "City settings",
+      "seconds": 140,
+      "file": "12_02-20.png"
+    },
+    {
+      "number": 13,
+      "timestamp": "02:35",
+      "description": "A person in black clothing faces the camera beside a window. White makeup covers the face, with black shapes under the eyes and a red nose. Their reflection and small colored lights appear in the dark glass.",
+      "alt": "Close view of a person with white face makeup and a red nose beside a window.",
+      "category": "Dark clothing and face makeup",
+      "seconds": 155,
+      "file": "13_02-35.png"
+    },
+    {
+      "number": 14,
+      "timestamp": "02:45",
+      "description": "The camera shows a person from behind in a long indoor corridor. Large white feathered wings extend from the back of their white shirt. Windows line the right side, and doorways line the left side.",
+      "alt": "Rear view of a person with large white wings in a corridor with windows.",
+      "category": "Figures with white wings",
+      "seconds": 165,
+      "file": "14_02-45.png"
+    },
+    {
+      "number": 15,
+      "timestamp": "03:00",
+      "description": "A person with short dark hair faces the camera on a street at night. They wear a black jacket and a necklace, with white face makeup, black lips, and dark marks below the eyes. Streetlights and distant vehicles are blurred in the background.",
+      "alt": "Person with white face makeup, black lips, and a black jacket on a night street.",
+      "category": "Dark clothing and face makeup",
+      "seconds": 180,
+      "file": "15_03-00.png"
+    },
+    {
+      "number": 16,
+      "timestamp": "03:10",
+      "description": "Overlapping images show a person in a white dress seated on the floor. Several old television sets surround the person, and loose cables cross the floor. The view comes from above, and the screens give off pale light.",
+      "alt": "Layered overhead view of a person in white seated among glowing television sets.",
+      "category": "Music and screen devices",
+      "seconds": 190,
+      "file": "16_03-10.png"
+    },
+    {
+      "number": 17,
+      "timestamp": "03:20",
+      "description": "A person in a white shirt wears large silver headphones inside a train. They sit beside a window with an open computer on their lap and both hands near its keyboard. Pale pink seats, metal poles, and hanging handles extend into the background.",
+      "alt": "Person wearing silver headphones uses a computer on a train seat.",
+      "category": "Music and screen devices",
+      "seconds": 200,
+      "file": "17_03-20.png"
+    },
+    {
+      "number": 18,
+      "timestamp": "03:55",
+      "description": "A person with short dark hair faces away from the camera on an outdoor walkway. They wear a white shirt and blue jeans, with large white wings on their back. Windows line the left side, while a low wall, trees, and buildings appear on the right.",
+      "alt": "Rear view of a person with white wings on a blue-lit outdoor walkway.",
+      "category": "Figures with white wings",
+      "seconds": 235,
+      "file": "18_03-55.png"
+    },
+    {
+      "number": 19,
+      "timestamp": "04:05",
+      "description": "A dark figure stands in front of two brightly lit vending machines. The image repeats and overlaps the figure and machines near the center. Blue light covers the scene.",
+      "alt": "Layered dark figure in front of illuminated vending machines.",
+      "category": "City settings",
+      "seconds": 245,
+      "file": "19_04-05.png"
+    },
+    {
+      "number": 20,
+      "timestamp": "04:15",
+      "description": "A person with silver headphones sits inside a train and holds an open screen device. They wear a white shirt with a black vest, and white wings appear behind their shoulders. Pale pink seats and metal poles fill the background.",
+      "alt": "Winged person with silver headphones holds an open screen device inside a train.",
+      "category": "Music and screen devices",
+      "seconds": 255,
+      "file": "20_04-15.png"
+    }
+  ],
+  "categories": [
+    [
+      "wings",
+      "Figures with white wings",
+      "Large white wings are the main visible feature.",
+      [
+        2,
+        3,
+        7,
+        9,
+        14,
+        18
+      ]
+    ],
+    [
+      "city",
+      "City settings",
+      "The image emphasizes water, buildings, roofs, city space, or vending machines.",
+      [
+        1,
+        4,
+        6,
+        12,
+        19
+      ]
+    ],
+    [
+      "screens",
+      "Screens and headphones",
+      "Television sets, a computer or screen device, or headphones are prominent.",
+      [
+        8,
+        10,
+        16,
+        17,
+        20
+      ]
+    ],
+    [
+      "dark",
+      "Dark clothing",
+      "A person in dark clothing is prominent; several images also show white face makeup.",
+      [
+        5,
+        11,
+        13,
+        15
+      ]
+    ]
+  ],
+  "reflection": "My first interpretation is that the video may explore loneliness and a dangerous wish to escape. It reminds me of \"Yoru ni Kakeru.\" I associate that work with a boy, a girl, and suicide, so the rooftop images create a similar concern for me. The white wings at 01:40 may suggest freedom, but the high setting also creates uncertainty. However, I cannot conclude that the characters die. That remains one possible interpretation.\n\nI think the video can be effective for viewers who enjoy stories with uncertain meanings. The contrast between white wings at 01:40 and dark face makeup at 03:00 offers different ways to understand the figures. The words \"We broke the chains\" at approximately 03:00 may also suggest a struggle to escape sadness. These details allow me to read the message as a search for relief. My response is curiosity mixed with concern because the video does not give me a clear explanation of the relationship between the figures.",
+  "lyrics": [
+    [
+      "00:29",
+      "An ordinary life, of vulgar shifts"
+    ],
+    [
+      "00:36",
+      "A static shot, a movie with no twists"
+    ],
+    [
+      "00:43",
+      "We toss and turn but the plot is the same"
+    ],
+    [
+      "00:49",
+      "We dream of love, to escape from this place"
+    ],
+    [
+      "00:56",
+      "and then a shock"
+    ],
+    [
+      "01:00",
+      "That hits us hard"
+    ],
+    [
+      "01:03",
+      "In the night"
+    ],
+    [
+      "01:07",
+      "While we dance"
+    ],
+    [
+      "01:12",
+      "And in my hand,"
+    ],
+    [
+      "01:14",
+      "Your name in black"
+    ],
+    [
+      "01:19",
+      "a memory of the moment we had"
+    ],
+    [
+      "01:26",
+      "A fleeting exception to the terrible rule"
+    ],
+    [
+      "01:32",
+      "of a world that is brute and blue"
+    ],
+    [
+      "01:41",
+      "Another Monday grey and crude"
+    ],
+    [
+      "01:48",
+      "a warm desire in a skin that's nude"
+    ],
+    [
+      "01:55",
+      "A reminiscence of the lights of the night"
+    ],
+    [
+      "02:01",
+      "a constant tribulation, deliver us from the plight"
+    ],
+    [
+      "02:09",
+      "and then a shock"
+    ],
+    [
+      "02:12",
+      "That hits us hard"
+    ],
+    [
+      "02:16",
+      "In the night"
+    ],
+    [
+      "02:19",
+      "While we dance"
+    ],
+    [
+      "02:25",
+      "And in my hand,"
+    ],
+    [
+      "02:26",
+      "Your name in black"
+    ],
+    [
+      "02:32",
+      "a memory of the moment we had"
+    ],
+    [
+      "02:38",
+      "A fleeting exception to the terrible rule"
+    ],
+    [
+      "02:45",
+      "of a world that is brute and blue"
+    ],
+    [
+      "02:53",
+      "We broke the spell"
+    ],
+    [
+      "02:57",
+      "We broke from hell"
+    ],
+    [
+      "03:00",
+      "We broke the chains"
+    ],
+    [
+      "03:04",
+      "From the sadness we felt"
+    ],
+    [
+      "03:37",
+      "And in my hand,"
+    ],
+    [
+      "03:38",
+      "Your name in blaaack"
+    ],
+    [
+      "03:44",
+      "a memory of the moment we had"
+    ],
+    [
+      "03:50",
+      "A fleeting exception to the terrible rule"
+    ],
+    [
+      "03:57",
+      "of a world that is brute and blue"
+    ],
+    [
+      "04:05",
+      "We broke the spell"
+    ],
+    [
+      "04:09",
+      "We broke from hell"
+    ],
+    [
+      "04:13",
+      "We broke the chains"
+    ],
+    [
+      "04:17",
+      "From the sadness we felt"
+    ]
+  ]
+}

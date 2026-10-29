@@ -1,0 +1,26 @@
+Official Google Fonts web assets — Latin subsets
+Retrieved 2026-10-28
+
+CSS source:
+https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap
+
+dm-sans-latin-variable.woff2
+Family: DM Sans; normal; requested weights: 400, 500, 600, 700
+The official CSS supplies the same variable WOFF2 file for all four weights.
+https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2
+License: DM-Sans-OFL.txt
+https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt
+
+dm-serif-display-latin.woff2
+Family: DM Serif Display; normal; weight: 400
+https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0vrx52g.woff2
+License: DM-Serif-Display-OFL.txt
+https://raw.githubusercontent.com/google/fonts/main/ofl/dmserifdisplay/OFL.txt
+
+dm-serif-display-latin-italic.woff2
+Family: DM Serif Display; italic; weight: 400
+https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2xWr53A.woff2
+License: DM-Serif-Display-OFL.txt
+
+The original font files are unmodified. Both families use the SIL Open Font
+License, Version 1.1; the full copyright and license notices are included.
